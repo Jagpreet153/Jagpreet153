@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Full Stack Projects **
 - 👯 I’m looking to collaborate on **Open Source Community**
 - 💬 Ask me about **React , Node , Express**
-- 📫 How to reach me **jskhurana143@gmail.com**
+- 📫 How to reach me **jskhurana153@gmail.com**
 - 👨‍💻 All of my Frontend projects are available at **https://github.com/Jagpreet153/Frontend_Projects**
 
 <div> <a href="https://www.linkedin.com/in/khurana.js" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
